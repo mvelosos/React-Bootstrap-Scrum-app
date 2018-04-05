@@ -8,7 +8,7 @@ const Jumbo = (props) => {
       <hr className="my-4" />
       <p>It uses utility classNames for typography and spacing to space content out within the larger container.</p>
       <p className="lead">
-        <a className="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+        <a className="btn btn-primary btn-lg" href="" role="button">Learn more</a>
       </p>
     </div>
   )
