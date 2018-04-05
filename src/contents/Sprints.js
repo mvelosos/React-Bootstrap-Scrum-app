@@ -4,7 +4,7 @@ export default class Sprints extends Component {
 
     render() {
         return (
-            <h1>Sprints</h1>
+            <h1 className='text-center'>Sprints</h1>
         );
     }
 }
